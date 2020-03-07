@@ -1,6 +1,3 @@
-A fact sheet with definitions and metadata for this dataset can be found at http://www.stateair.net/web/historical/1/1.html.,,,,,,,,,,
-The U.S. Department of State Data Use Statement at http://www.stateair.net/web/historical/1/1.html applies to these and all data available from the Mission China air quality monitoring program.,,,,,,,,,,
-,,,,,,,,,,
 Site,Parameter,Date (LST),Year,Month,Day,Hour,Value,Unit,Duration,QC Name
 Beijing,PM2.5,1/1/2015 0:00,2015,1,1,0,22,µg/m³,1 Hr,Valid
 Beijing,PM2.5,1/1/2015 1:00,2015,1,1,1,9,µg/m³,1 Hr,Valid
